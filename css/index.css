@@ -9,10 +9,6 @@
 h1 {
   width: 100%;
   max-width: 500px;
-  color: azure;
-  display: flex;
-  align-items: center;
-  margin-bottom: 20px;
 }
 
 .container {
@@ -31,4 +27,8 @@ h1 {
 }
 
 h1 {
+  color: azure;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
 }
